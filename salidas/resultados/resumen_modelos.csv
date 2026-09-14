@@ -1,0 +1,4 @@
+Técnica,Métrica principal,Valor,Interpretación
+Clustering (K-means),Silhouette,0.3953346958603451,Clusters moderadamente separados
+Clasificación (Árbol),F1-score,0.9468058833487686,Excelente clasificación
+Regresión (Lineal),R²,0.7797066320510111,Buena predicción
